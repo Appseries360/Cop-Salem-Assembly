@@ -177,6 +177,9 @@
     .nav-links{
         height: auto;
     }
+    .dice-button{
+        width: auto;
+    }
 }
 @media screen and (max-width: 360px) {
     nav{
@@ -225,3 +228,4 @@
         width:auto;
     }
 }
+
